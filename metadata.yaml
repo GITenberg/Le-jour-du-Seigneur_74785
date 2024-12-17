@@ -1,0 +1,36 @@
+_repo: Le-jour-du-Seigneur_74785
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hello, Ernest
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '54013'
+    url: http://www.gutenberg.org/2009/agents/54013
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ernest_Hello
+    - https://fr.wikipedia.org/wiki/Ernest_Hello
+description: ''
+gutenberg_issued: '2024-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74785'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hwrl49
+pgterms:marc905: 20241107125504author
+pgterms:marc906: '1871'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bVictor Palmé, $c1871, pubdate 1872.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meditations'
+- !lcsh 'Sabbath'
+- !lcsh 'Church attendance'
+- !lcc 'BV'
+- GITenberg
+title: Le jour du Seigneur
+url: http://www.gutenberg.org/ebooks/74785
